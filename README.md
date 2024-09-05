@@ -10,16 +10,7 @@ This project is a template for a java Spring Boot application querying FHIR reso
   cluster).
 - Load the [sample datasets](https://www.mongodb.com/docs/atlas/sample-data/#available-sample-datasets) as we are
   working with the `sample_mflix.movies` collection.
-- Create an Atlas Search index for the `sample_mflix.movies` collection named `dynamic` with the following
-  configuration:
 
-```json
-{
-  "mappings": {
-    "dynamic": true
-  }
-}
-```
 
 # Getting Started
 
