@@ -1,4 +1,4 @@
-# Java Spring Boot Template with MongoDB Atlas Search
+# Java Spring Boot Template with FHIR on MongoDB
 
 This project is a template for a java Spring Boot application querying FHIR resources in MongoDB. 
 
